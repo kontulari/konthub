@@ -38,7 +38,7 @@ Antes de iniciar o desafio, crie um repositório no GitHub para armazenar os seu
 
 O repositório pode ser público ou privado, mas caso opte por criar um repositório privado, envie um convite de colaboração para o usuário [kontulari](https://github.com/kontulari) e [augustorodrigues](https://github.com/augustorodrigues) no GitHub. Não faça fork desse repositório para evitar que os concorrentes vejam o processo de desenvolvimento do seu projeto.
 
-O link do repositório deve ser enviado para o email comunicacao@kontulari.com.br até o prazo limite, não havendo possibilidade de prorrogação. Você pode enviar o link logo quando criar o repositório, porém as análises se iniciam apenas após a finalização do prazo.
+O link do repositório deve ser enviado para o email **comunicacao@kontulari.com.br** até o prazo limite, não havendo possibilidade de prorrogação. Você pode enviar o link logo quando criar o repositório, porém as análises se iniciam apenas após a finalização do prazo.
 
 ### Diferenciais
 
