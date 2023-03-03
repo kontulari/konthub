@@ -22,11 +22,11 @@ Exemplos de consulta utilizando o usuário do Facebook:
 
 ### Requisitos Técnicos
 
-Para a realização do desafio, vocês devem utilizar o framework Spring Boot 2.7 ou superior com a linguagem de programação Java (versão 8+) ou Kotlin (versão 1.7+) e para o desenvolvimento do frontend você deve utilizar a biblioteca ReactJS na versão 18 com a linguagem JavaScript ou TypeScript. Não é necessário a utilização de banco de dados nesse desafio.
+Para a realização do desafio, você deve utilizar o framework Spring Boot 2.7 ou superior com a linguagem de programação Java (versão 8+) ou Kotlin (versão 1.7+) e para o desenvolvimento do frontend você deve utilizar a biblioteca ReactJS na versão 18 com a linguagem JavaScript ou TypeScript. Não é necessário a utilização de banco de dados nesse desafio.
 
 Para a integração Backend-Github você pode utilizar as bibliotecas OkHttp ou RestTemplate, mas fique livre para escolher a biblioteca de integração que preferir. Para a API de consultas do cliente você deve seguir o padrão REST.
 
-O frontend deve ser responsivo para telas de qualquer tamanho (celular, tablet, PC), utilize as ferramentas de desenvolvimento do seu navegador para validar a responsividade. Sinta-se livre para desenvolver a interface do aplicativo da forma que preferir (paleta de cor, biblioteca de estilo, imagens, fonte, posicionamento dos componentes), mas como sugestão você pode criar uma tela de pesquisa semelhante a do Google com um único campo de formulário para busca onde será digitado o usuário do GitHub.
+O frontend deve ser responsivo para telas de qualquer tamanho (celular, tablet, PC), utilize as ferramentas de desenvolvimento do seu navegador para validar a responsividade. Sinta-se livre para desenvolver a interface do aplicativo web da forma que preferir (paleta de cor, biblioteca de estilo, imagens, fonte, posicionamento dos componentes), mas como sugestão você pode criar uma tela de pesquisa semelhante a do Google com um único campo de formulário para busca onde será digitado o usuário do GitHub.
 
 O README do seu projeto deve documentar todo o processo de desenvolvimento, veja mais detalhes na sessão seguite.
 
@@ -35,6 +35,10 @@ Em caso de dúvida, não deixe de entrar em contato para esclarecimentos sobre o
 ### Envio do projeto
 
 Antes de iniciar o desafio, crie um repositório no GitHub para armazenar os seus projetos em pastas separadas do backend e frontend (não é necessário a utilização de *monorepo*) e faça commits documentais que relatem o passo a passo do desenvolvimento, **isso também será avaliado**. Além disso o README do projeto deve conter o **passo a passo detalhado** de como fazer a execução dos projetos em ambiente local.
+
+O repositório pode ser público ou privado, mas caso opte por criar um repositório privado, envie um convite de colaboração para o usuário @kontulari no GitHub. Não faça fork desse repositório para evitar que os concorrentes vejam o processo de desenvolvimento do seu projeto.
+
+O link do repositório deve ser enviado para este email até o prazo limite, não havendo possibilidade de prorrogação. Você pode enviar o link logo quando criar o repositório, porém as análises se iniciam apenas após a finalização do prazo.
 
 ### Diferenciais
 
