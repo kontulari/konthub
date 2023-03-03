@@ -36,7 +36,7 @@ Em caso de dúvida, não deixe de entrar em contato para esclarecimentos sobre o
 
 Antes de iniciar o desafio, crie um repositório no GitHub para armazenar os seus projetos em pastas separadas do backend e frontend (não é necessário a utilização de *monorepo*) e faça commits documentais que relatem o passo a passo do desenvolvimento, **isso também será avaliado**. Além disso o README do projeto deve conter o **passo a passo detalhado** de como fazer a execução dos projetos em ambiente local.
 
-O repositório pode ser público ou privado, mas caso opte por criar um repositório privado, envie um convite de colaboração para o usuário @kontulari no GitHub. Não faça fork desse repositório para evitar que os concorrentes vejam o processo de desenvolvimento do seu projeto.
+O repositório pode ser público ou privado, mas caso opte por criar um repositório privado, envie um convite de colaboração para o usuário [kontulari](https://github.com/kontulari) e [augustorodrigues](https://github.com/augustorodrigues) no GitHub. Não faça fork desse repositório para evitar que os concorrentes vejam o processo de desenvolvimento do seu projeto.
 
 O link do repositório deve ser enviado para este email até o prazo limite, não havendo possibilidade de prorrogação. Você pode enviar o link logo quando criar o repositório, porém as análises se iniciam apenas após a finalização do prazo.
 
